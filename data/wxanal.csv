@@ -1,0 +1,4 @@
+,Cumulus_clouds,Divergence,Humidity,Location 1,Location 2,Pressure,Scattered_storms,Severe_storms,Temperature,Theta-e:,Wind direction,Wind speed,Wind_shift,delta_thetae,delta_wind_direction
+0,True,False,,,,,True,True,,,,,False,3.253762531211123,10.0
+1,,,70.0,Naples,,1017.0,,,87.35,361.4077936380987,130.0,11.40837508947745,,,
+2,,,59.0,,Immokalee,1017.0,,,90.1,358.1540311068876,120.0,8.05297065139585,,,
