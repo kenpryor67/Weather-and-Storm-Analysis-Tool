@@ -1,4 +1,6 @@
-,Cumulus_clouds,Divergence,Humidity,Location 1,Location 2,Pressure,Scattered_storms,Severe_storms,Temperature,Theta-e:,Wind direction,Wind speed,Wind_shift,delta_thetae,delta_wind_direction
-0,True,False,,,,,True,True,,,,,False,3.253762531211123,10.0
-1,,,70.0,Naples,,1017.0,,,87.35,361.4077936380987,130.0,11.40837508947745,,,
-2,,,59.0,,Immokalee,1017.0,,,90.1,358.1540311068876,120.0,8.05297065139585,,,
+,Cumulus_clouds,Divergence,Humidity,Location 1,Location 2,Location 3,Location 4,Pressure,Scattered_storms,Severe_storms,Temperature,Theta-e:,Wind direction,Wind speed,Wind_shift,delta_thetae,delta_wind_direction
+0,True,True,,,,,,,False,False,,,,,False,0.3845588108920879,20.0
+1,,,78.0,Naples,,,,1013.0,,,82.17,355.58746293578866,230.0,8.05297065139585,,,
+2,,,70.0,,Immokalee,,,1013.0,,,84.9,355.97202174668075,250.0,10.28990694345025,,,
+3,,,78.0,,,Golden Gate,,1013.0,,,83.03,357.63055218451024,230.0,8.05297065139585,,,
+4,,,88.0,,,,Bonita Springs,1012.0,,,82.51,363.69214621448003,32.0,5.010737294201862,,,
